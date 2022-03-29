@@ -1,3 +1,6 @@
+# Day 6: Escape Maze
+# This can be used in the web app Reeborg's World: https://reeborg.ca/reeborg.html
+
 def turn_right():
     turn_left()
     turn_left()

@@ -1,6 +1,9 @@
 # Day 8: Ceaser Cipher 
 
 def encode(text, shift_number):
+    '''
+    This function encodes the text by shifting right by the specified number
+    '''
     shifted_text = list(text)
     for i, char in enumerate(text):
 
@@ -10,6 +13,9 @@ def encode(text, shift_number):
     return ''.join(shifted_text)
 
 def decode(text, shift_number):
+    '''
+    This function decodes the text by shifting left by the specified number
+    '''
     shifted_text = list(text)
     for i, char in enumerate(text):
         if char.isalpha(): # Only decrypt alphabetic characters 
