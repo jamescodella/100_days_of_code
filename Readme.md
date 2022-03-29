@@ -17,3 +17,5 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 6     | Escaping the maze (no code| ✅  |
 | 7     | Hangman Game | ✅  |
 | 8     | Caeser Cipher | ✅  |
+| 9     | Silent Auction | ✅  |
+| 10    | Calculator App | ✅  |
