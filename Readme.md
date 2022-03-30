@@ -19,3 +19,5 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 8     | Caeser Cipher | ✅  |
 | 9     | Silent Auction | ✅  |
 | 10    | Calculator App | ✅  |
+| 11    | Capstone Project: Blackjack Game | ✅  |
+| 12    | Final Project: Number Guessing Game  (PyGuess) | ✅  |
