@@ -21,3 +21,5 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 10    | Calculator App | ✅  |
 | 11    | Capstone Project: Blackjack Game | ✅  |
 | 12    | Final Project: Number Guessing Game  (PyGuess) | ✅  |
+| 13    | No project on this day. | NA |
+| 14    | Higher Lower Game | ✅  |
