@@ -14,12 +14,16 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 3     | Treasure Island Text Game | ✅  |
 | 4     | Rock Paper Scissors Game | ✅  |
 | 5     | Password Generator | ✅  |
-| 6     | Escaping the maze (no code| ✅  |
+| 6     | Escaping the maze (for | ✅  |
 | 7     | Hangman Game | ✅  |
 | 8     | Caeser Cipher | ✅  |
 | 9     | Silent Auction | ✅  |
 | 10    | Calculator App | ✅  |
 | 11    | Capstone Project: Blackjack Game | ✅  |
 | 12    | Final Project: Number Guessing Game  (PyGuess) | ✅  |
-| 13    | No project on this day. | NA |
+| 13    | No project on this day | 🟨 |
 | 14    | Higher Lower Game | ✅  |
+| 15    | Coffee Machine (PyCafe) | ✅  |
+| 16    | Coffee Machine (OOP, using starter code from course) | ✅  |
+| 17    | Quiz Project | ✅  |
+| 18    | The Hirst Painting Project | ✅  |
