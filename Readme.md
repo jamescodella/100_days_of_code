@@ -14,7 +14,7 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 3     | Treasure Island Text Game | ✅  |
 | 4     | Rock Paper Scissors Game | ✅  |
 | 5     | Password Generator | ✅  |
-| 6     | Escaping the maze (for | ✅  |
+| 6     | Escaping the maze | ✅  |
 | 7     | Hangman Game | ✅  |
 | 8     | Caeser Cipher | ✅  |
 | 9     | Silent Auction | ✅  |
