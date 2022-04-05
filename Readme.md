@@ -7,8 +7,8 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 <br>
 # Progress Tracker
 
-| Day   | Description   | Status    |
-| :-----: | :------------- | :-------: |
+| Day    | Description   | Status    |
+| :------: | :------------- | :-------: |
 | 1     | Band Name Generator | ✅  |
 | 2     | Tip and Bill Spliting Calculator | ✅  |
 | 3     | Treasure Island Text Game | ✅  |
@@ -27,3 +27,6 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 16    | Coffee Machine (OOP, using starter code from course) | ✅  |
 | 17    | Quiz Project | ✅  |
 | 18    | The Hirst Painting Project | ✅  |
+| 19    | Turtle Race | ✅  |
+| 20, 21 | Snake Game| ✅  |
+| 22 | Pong Game (PyPong)| ✅  |
