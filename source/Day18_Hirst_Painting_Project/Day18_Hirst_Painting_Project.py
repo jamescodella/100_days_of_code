@@ -1,3 +1,4 @@
+# Day 18: Hirst Dot-Painting Generator
 from turtle import Turtle, Screen
 import random
 import turtle

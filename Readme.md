@@ -26,7 +26,8 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 15    | Coffee Machine (PyCafe) | ✅  |
 | 16    | Coffee Machine (OOP, using starter code from course) | ✅  |
 | 17    | Quiz Project | ✅  |
-| 18    | The Hirst Painting Project | ✅  |
-| 19    | Turtle Race | ✅  |
+| 18    | Hirst Dot-Painting Generator | ✅  |
+| 19    | Etch-A-Sketch & Turtle Race | ✅  |
 | 20, 21 | Snake Game| ✅  |
 | 22 | Pong Game (PyPong)| ✅  |
+| 23 | Crossy Turtle Game| ✅  |

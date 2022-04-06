@@ -1,3 +1,5 @@
+# Day 20 & 21: Snake game
+
 from turtle import Screen
 import time
 from snake import Snake
@@ -39,12 +41,14 @@ while game_running:
 
     # Detect collision w/ wall
     if snake.blocks[0].xcor() > 280 or snake.blocks[0].ycor() > 280 or snake.blocks[0].xcor() < -280 or snake.blocks[0].ycor() < -280:
-        game_running = False
+        score.reset()
+        snake.reset()
 
     # Detect collision with tail
     for b in snake.blocks[1:]: # avoid comparing head with head
         if snake.blocks[0].distance(b) < 10:
-            game_running = False
+            score.reset()
+            snake.reset()
             
 score.game_over()
     

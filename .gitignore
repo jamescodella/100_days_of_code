@@ -12,3 +12,7 @@ Thumbs.db
 
 # Compiled Python files
 *.pyc
+
+# High score game files
+*high_scores.*
+letter_for_*.txt

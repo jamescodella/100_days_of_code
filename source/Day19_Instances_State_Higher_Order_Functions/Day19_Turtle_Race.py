@@ -1,9 +1,9 @@
+# Day 19: Turtle Race
+
 from turtle import Turtle, Screen, color
 import random
 
 from torch import rand
-
-
 
 if __name__ == '__main__':
 
