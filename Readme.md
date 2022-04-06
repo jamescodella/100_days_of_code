@@ -31,3 +31,4 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 20, 21 | Snake Game| ✅  |
 | 22 | Pong Game (PyPong)| ✅  |
 | 23 | Crossy Turtle Game| ✅  |
+| 24 | Snake Game (w/ high score tracking) & Mail Merge Challenge| ✅  |
