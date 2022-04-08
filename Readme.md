@@ -28,7 +28,9 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 17    | Quiz Project | ✅  |
 | 18    | Hirst Dot-Painting Generator | ✅  |
 | 19    | Etch-A-Sketch & Turtle Race | ✅  |
-| 20, 21 | Snake Game| ✅  |
+| 20-21 | Snake Game| ✅  |
 | 22 | Pong Game (PyPong)| ✅  |
 | 23 | Crossy Turtle Game| ✅  |
 | 24 | Snake Game (w/ high score tracking) & Mail Merge Challenge| ✅  |
+| 25 | USA States game with Pandas | ✅  |
+| 26 | NATO Alphabet Project | ✅  |
