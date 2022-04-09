@@ -9,29 +9,31 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 
 | Day    | Description   | Status    |
 | :------: | :------------- | :-------: |
-| 1     | Band Name Generator | ✅  |
-| 2     | Tip and Bill Spliting Calculator | ✅  |
-| 3     | Treasure Island Text Game | ✅  |
+| 1     | Band 🎸 Name Generator | ✅  |
+| 2     | Tip and Bill 💵 Spliting Calculator | ✅  |
+| 3     | Treasure Island 🏴‍☠️ Text Game | ✅  |
 | 4     | Rock Paper Scissors Game | ✅  |
 | 5     | Password Generator | ✅  |
 | 6     | Escaping the maze | ✅  |
 | 7     | Hangman Game | ✅  |
-| 8     | Caeser Cipher | ✅  |
+| 8     | Caeser Cipher 🔐| ✅  |
 | 9     | Silent Auction | ✅  |
-| 10    | Calculator App | ✅  |
-| 11    | Capstone Project: Blackjack Game | ✅  |
+| 10    | Calculator 🧮 App | ✅  |
+| 11    | Capstone Project: Blackjack 🃏 Game | ✅  |
 | 12    | Final Project: Number Guessing Game  (PyGuess) | ✅  |
 | 13    | No project on this day | 🟨 |
 | 14    | Higher Lower Game | ✅  |
-| 15    | Coffee Machine (PyCafe) | ✅  |
-| 16    | Coffee Machine (OOP, using starter code from course) | ✅  |
+| 15    | Coffee ☕️ Machine (PyCafe) | ✅  |
+| 16    | Coffee ☕️ Machine (OOP, using starter code from course) | ✅  |
 | 17    | Quiz Project | ✅  |
 | 18    | Hirst Dot-Painting Generator | ✅  |
-| 19    | Etch-A-Sketch & Turtle Race | ✅  |
-| 20-21 | Snake Game| ✅  |
+| 19    | Etch-A-Sketch & Turtle 🐢 Race | ✅  |
+| 20-21 | Snake 🐍 Game| ✅  |
 | 22 | Pong Game (PyPong)| ✅  |
 | 23 | Crossy Turtle Game| ✅  |
 | 24 | Snake Game (w/ high score tracking) & Mail Merge Challenge| ✅  |
-| 25 | USA States game (w/ Pandas) | ✅  |
+| 25 | USA 🇺🇸 States game (w/ Pandas) | ✅  |
 | 26 | NATO Alphabet Project | ✅  |
 | 27 | Miles to Kilometer Converert (w/ Tkinter) | ✅  |
+| 28 | Pomodoro 🍅 Timer (Pymodoro) | ✅  |
+| 29-30 | Password 🔐  Manager (csv+json versions w/ err handling) | ✅  |
