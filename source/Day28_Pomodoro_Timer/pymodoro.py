@@ -1,3 +1,5 @@
+# Day 28: Pomodoro timer (Pymodoro)
+
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #

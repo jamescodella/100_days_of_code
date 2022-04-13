@@ -37,3 +37,4 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 27 | Miles to Kilometer Converert (w/ Tkinter) | ✅  |
 | 28 | Pomodoro 🍅 Timer (Pymodoro) | ✅  |
 | 29-30 | Password 🔐  Manager (csv+json versions w/ err handling) | ✅  |
+| 31 | Flash 🗒 Card App | ✅  |

@@ -1,9 +1,10 @@
+# Day 30: Password manager w/search
+
 from tkinter import *
 from turtle import window_width
 from tkinter import messagebox
 import string
 import random
-from matplotlib.pyplot import title
 import pyperclip
 import json
 
