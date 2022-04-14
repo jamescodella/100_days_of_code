@@ -38,3 +38,4 @@ Hello! This repo contains my implementations of the daily coding challegnges fea
 | 28 | Pomodoro 🍅 Timer (Pymodoro) | ✅  |
 | 29-30 | Password 🔐  Manager (csv+json versions w/ err handling) | ✅  |
 | 31 | Flash 🗒 Card App | ✅  |
+| 32 | Automated Birthday Wisher | ✅    |
